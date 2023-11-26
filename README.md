@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 📫 How to reach me: check my homepage: [](https://www.sulg.dev)
+- 📫 How to reach me: [check my homepage](https://www.sulg.dev)
 - ⚡ Fun fact: ...
 
