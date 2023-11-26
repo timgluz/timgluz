@@ -7,9 +7,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Teeline aka TSP solver;
-- 🌱 I’m currently learning micro-service architectures and WASM.
-- 💬 Currenly involved with Rust, WebAssembly and machine learning;
 - 📫 How to reach me: check my homepage: [](https://www.sulg.dev)
 - ⚡ Fun fact: ...
 
